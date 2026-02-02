@@ -42,4 +42,4 @@ To design and develop a modern, responsive product filtering web application usi
 This project is deployed on Vercel using GitHub integration.
 
 ## Screenshots
-<img width="518" height="453" alt="image" src="https://github.com/user-attachments/assets/af338df1-adde-4502-8ff4-b1b7132fd376" />
+<img width="473" height="296" alt="image" src="https://github.com/user-attachments/assets/d0b26ae2-faff-405b-ad17-1701c2420de5" />
